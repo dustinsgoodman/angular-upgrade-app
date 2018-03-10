@@ -1,0 +1,81 @@
+<project root>
+├── src/
+│   ├── app/
+│   │  ├── core/
+│   │  │  ├── core.module.ts
+│   │  │  ├── exception.service.spec.ts
+│   │  │  ├── exception.service.ts
+│   │  │  ├── user-profile.spec.ts
+│   │  │  └── user-profile.ts
+│   │  ├── heroes/
+│   │  │  ├── hero/
+│   │  │  │  ├── hero.component.css
+│   │  │  │  ├── hero.component.html
+│   │  │  │  ├── hero.component.spec.ts
+│   │  │  │  └── hero.component.ts
+│   │  │  ├── hero-list/
+│   │  │  │  ├── hero-list.component.css
+│   │  │  │  ├── hero-list.component.html
+│   │  │  │  ├── hero-list.component.spec.ts
+│   │  │  │  └── hero-list.component.ts
+│   │  │  ├── shared/
+│   │  │  │  ├── hero-button.component.css
+│   │  │  │  ├── hero-button.component.html
+│   │  │  │  ├── hero-button.component.spec.ts
+│   │  │  │  ├── hero-button.component.ts
+│   │  │  │  ├── hero-button.component.ts
+│   │  │  │  ├── hero.model.ts
+│   │  │  │  ├── hero.service.spec.ts
+│   │  │  │  └── hero.service.ts
+│   │  │  ├── heroes.component.css
+│   │  │  ├── heroes.component.html
+│   │  │  ├── heroes.component.spec.ts
+│   │  │  ├── heroes.component.ts
+│   │  │  ├── heroes.module.ts
+│   │  │  └── heroes-routing.module.ts
+│   │  ├── shared/
+│   │  │  ├── shared.module.ts
+│   │  │  ├── init-caps.pipe.spec.ts
+│   │  │  ├── init-caps.pipe.ts
+│   │  │  ├── text-filter.component.spec.ts
+│   │  │  ├── text-filter.component.ts
+│   │  │  ├── text-filter.service.spec.ts
+│   │  │  └── text-filter.service.ts
+│   │  ├── villains/
+│   │  │  ├── villain/
+│   │  │  │  ├── villain.component.css
+│   │  │  │  ├── villain.component.html
+│   │  │  │  ├── villain.component.spec.ts
+│   │  │  │  └── villain.component.ts
+│   │  │  ├── villain-list/
+│   │  │  │  ├── villain-list.component.css
+│   │  │  │  ├── villain-list.component.html
+│   │  │  │  ├── villain-list.component.spec.ts
+│   │  │  │  └── villain-list.component.ts
+│   │  │  ├── shared/
+│   │  │  │  ├── villain-button.component.css
+│   │  │  │  ├── villain-button.component.html
+│   │  │  │  ├── villain-button.component.spec.ts
+│   │  │  │  ├── villain-button.component.ts
+│   │  │  │  ├── villain-button.component.ts
+│   │  │  │  ├── villain.model.ts
+│   │  │  │  ├── villain.service.spec.ts
+│   │  │  │  └── villain.service.ts
+│   │  │  ├── villains.component.css
+│   │  │  ├── villains.component.html
+│   │  │  ├── villains.component.spec.ts
+│   │  │  ├── villains.component.ts
+│   │  │  ├── villains.module.ts
+│   │  │  └── villains-routing.module.ts
+│   │  ├── app.component.css
+│   │  ├── app.component.html
+│   │  ├── app.component.spec.ts
+│   │  ├── app.component.ts
+│   │  ├── app.module.ts
+│   │  └── app-routing.module.ts
+│   ├── main.ts
+│   ├── index.html
+│   └── ...
+├── node_modules/
+└── ...
+
